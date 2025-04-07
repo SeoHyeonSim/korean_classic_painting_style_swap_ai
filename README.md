@@ -91,8 +91,7 @@ output_img.save('result.jpg')
 ## Results
 1. Mona Lisa
 
-![image](https://github.com/user-attachments/assets/308b30fe-f2c9-4a94-a61f-45a654799cf6)
-
+![image](https://github.com/user-attachments/assets/3b6e4c91-a6bc-4e5e-bb21-de90a7a1c427)
 
 2. 
 ![image](https://github.com/user-attachments/assets/945dfa76-cf42-4f55-a838-6f76bbbaf534)
