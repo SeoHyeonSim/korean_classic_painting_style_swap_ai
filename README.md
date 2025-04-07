@@ -50,21 +50,6 @@ AI를 통한 이미지 생성과 화풍 변환 서비스가 많은 주목과 인
 
 ---
 
-## Installation
-
-```bash
-# Clone the repository
-$ git clone https://github.com/your-username/your-repository-name.git
-
-# Navigate to the project directory
-$ cd your-repository-name
-
-# Install dependencies
-$ pip install -r requirements.txt
-```
-
----
-
 ### Hyperparameters
 
 - Learning Rate: 0.0002
@@ -104,6 +89,18 @@ output_img.save('result.jpg')
 ---
 
 ## Results
+1. Mona Lisa
+
+![image](https://github.com/user-attachments/assets/308b30fe-f2c9-4a94-a61f-45a654799cf6)
+
+
+2. 
+![image](https://github.com/user-attachments/assets/945dfa76-cf42-4f55-a838-6f76bbbaf534)
+
+3. 
+
+![image](https://github.com/user-attachments/assets/c51f2191-4d39-4f6b-8a22-c7915217e020)
+
 
 
 ---
