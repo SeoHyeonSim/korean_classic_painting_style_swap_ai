@@ -44,9 +44,9 @@ AI를 통한 이미지 생성과 화풍 변환 서비스가 많은 주목과 인
 
 ## Loss Functions
 
-- **GAN Loss:** Measures how well the generator fools the discriminator.
-- **Cycle Consistency Loss:** Ensures that translating an image to another domain and back results in the original image.
-- **Identity Loss:** Encourages the generator to preserve the identity of the input image if it is already in the target domain.
+- **GAN Loss:** Generator가 생성한 이미지 Discriminator를 얼마나 잘 속이는지 평가.
+- **Cycle Consistency Loss:** 이미지를 다른 도메인으로 변환 후 다시 되돌렸을 때 원본 이미지와의 일관성 보장. 
+- **Identity Loss:** 이미 변환할 필요가 없는 이미지일 때 손실을 최소화하여 정체성을 유지
 
 ---
 
@@ -92,7 +92,7 @@ output_img.save('result.jpg')
 
 ![image](https://github.com/user-attachments/assets/3b6e4c91-a6bc-4e5e-bb21-de90a7a1c427)
 
-![image](https://github.com/user-attachments/assets/945dfa76-cf42-4f55-a838-6f76bbbaf534)
+![image](https://github.com/user-attachments/assets/19207a2d-4a26-4aa1-bace-8db35e3425c2)
 
 ![image](https://github.com/user-attachments/assets/c51f2191-4d39-4f6b-8a22-c7915217e020)
 
